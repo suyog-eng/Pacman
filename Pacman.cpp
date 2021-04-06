@@ -1,6 +1,4 @@
-#include <graphics.h>
-#include<conio.h>
-#include<dos.h>
+
 #include <iostream>
 #include <stdio.h>
 #include <windows.h>
